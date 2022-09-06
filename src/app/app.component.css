@@ -4,8 +4,7 @@
 
 .table-container {
   position: relative;
-  min-height: 296.458px;
-  max-height: 536.432px;
+  height: 67.4vh;
   overflow: auto;
 }
 
