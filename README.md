@@ -1,4 +1,4 @@
-# AngularServersidePagination
+# Angular Server-side Pagination
 
 This project implements server-side pagination using angular material table and DUMMYAPI.IO Api service.
 
