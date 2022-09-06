@@ -89,7 +89,7 @@
   /**
    * Controls the font family.
    */
-  // "editor.fontFamily": "Menlo, JetBrains Mono, Consolas, Liberation Mono, monospace",
+  // "editor.fontFamily": "JetBrains Mono",
   /**
    * Enables/Disables font ligatures ('calt' and 'liga' font features).
    * Change this to a string for fine-grained control of the 'font-feature-settings' CSS property.
