@@ -20,7 +20,7 @@ export class AppComponent implements AfterViewInit {
   page!: number;
   limit!: number;
 
-  pageSizeOptions: number[] = [5, 10];
+  pageSizeOptions: number[] = [5, 10, 20, 25];
   pageEvent!: PageEvent;
   isLoadingResults = true;
   displayedColumns: string[] = ['id', 'title', 'firstName', 'lastName'];
